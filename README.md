@@ -1,2 +1,2 @@
-# eighty-nine
+# Eighty-Nine
 Wordpress Theme
