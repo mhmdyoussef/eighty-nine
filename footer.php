@@ -6,7 +6,8 @@
                     <?php
                     echo date( 'Y' ) . "<sup>&copy</sup>";
                     ?>
-                </span>
+                    </span>
+                    Created by <a href="https://egsyntax.com">EG Syntax</a>
                 </p>
             </div>
         </footer>
